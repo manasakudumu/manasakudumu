@@ -24,21 +24,7 @@ My interests lie at the intersection of AI, data visualization, and inclusive de
 - MongoDB, MySQL, SQLite  
 - Figma, Vercel, GitHub  
 - Atlas.ti, MATLAB
-
-
-## 🚀 Projects
-
-- **Interactive Foreclosure Visualizer**  
-  Designed an interactive web app to visualize Boston foreclosure trends with maps, filters, and demographic overlays.
-
-- **Noor – Accessible Education App**  
-  Created a mobile app for visually impaired students with audiobooks, job boards, and a talent showcase.  
-  - Winner, Smart India Hackathon  
-  - Semifinalist, Technovation Girls
-
-- **BikeWatching**  
-  Built a tool to visualize real-time Boston bike traffic with animated flows and time-based filters.
-
+  
 
 ## 📫 Contact Me  
 📧 Email: mk122@wellesley.edu  
