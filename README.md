@@ -2,14 +2,6 @@
 
 Welcome to my GitHub! I'm a Computer Science and Economics student at Wellesley College, cross-registered at MIT. I'm passionate about building accessible, intelligent, and socially impactful technology. My interests lie at the intersection of AI, data visualization, and inclusive design. 
 
-
-## About Me
-- Senior at Wellesley College + MIT EECS cross-registrant  
-- Passionate about accessibility, education, and ethical AI  
-- Exploring the intersection of AI, spatial data, and public policy  
-- Outside of tech, I dance, cafe hop, and design for fun
-
-
 ## Tools & Technologies
 
 ### 💻 Programming & Development  
